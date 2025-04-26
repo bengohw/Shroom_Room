@@ -1,8 +1,8 @@
-# Temperature Sensor Example
+### Shroom Room 
 
-## Build and Flash firmware
+### Build and Flash firmware
 
-Follow the ESP RainMaker Documentation [Get Started](https://rainmaker.espressif.com/docs/get-started.html) section to build and flash this firmware. Just note the path of this example.
+Follow the ESP RainMaker Documentation [Get Started](https://rainmaker.espressif.com/docs/get-started.html) section to build and flash this firmware.
 
 ### Reset to Factory
 
