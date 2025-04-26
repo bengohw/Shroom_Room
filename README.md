@@ -1,4 +1,4 @@
-Hello there! This is the repository for Shroom Room, a smart automated monotub with IoT capabilities! Here is a brief overview of the purpose of the contents in this repository:
+Hello there! This is the repository for Shroom Room, a smart automated monotub with IoT capabilities! Here is a brief overview of the contents in this repository:
 
 1. *Electrical_Housing_CAD_Files directory* contains the technical drawings and .stl files to 3D print your own Shroom Room's electrical housing.
 2. *Monotub Circuit Schematic.pdf* shows the necessary electrical connections for Shroom ROom's electronics.
